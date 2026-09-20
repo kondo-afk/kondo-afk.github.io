@@ -1,5 +1,7 @@
 const resources = [
   { title: "逗子市内の保育施設一覧", desc: "所在地・受入年齢・駐車場など", source: "逗子市", category: "childcare", icon: "baby", url: "https://www.city.zushi.kanagawa.jp/kosodate/egao/1002588/1002676/1002682/1002683/1002684.html" },
+  { title: "藤沢市の認可保育施設一覧", desc: "認可保育所・認定こども園・小規模保育", source: "藤沢市", category: "childcare", icon: "baby", url: "https://www.city.fujisawa.kanagawa.jp/hoiku/kenko/kosodate/hoikuen/ninka-ichiran.html" },
+  { title: "茅ヶ崎市の保育所等のしおり", desc: "認可保育所・認定こども園・地域型保育", source: "茅ヶ崎市", category: "childcare", icon: "baby", url: "https://www.city.chigasaki.kanagawa.jp/kosodate/1024751/hoikuen/1058018.html" },
   { title: "保活ワンポータル", desc: "全国の保育施設を地図から検索", source: "こども家庭庁", category: "childcare", icon: "map-pinned", url: "https://www.hokatsu-oneportal.cfa.go.jp/" },
   { title: "親子のフリースペース", desc: "支援センター・市内5か所のほっとスペース", source: "逗子市", category: "childcare", icon: "heart-handshake", url: "https://www.city.zushi.kanagawa.jp/kosodate/egao/1002588/1002996/1003000.html" },
   { title: "重ねるハザードマップ", desc: "津波・土砂・洪水などを地図で確認", source: "国土地理院", category: "safety", icon: "layers-3", url: "https://disaportal.gsi.go.jp/hazardmap/maps/index.html?ll=35.295,139.581&z=14&base=pale" },
